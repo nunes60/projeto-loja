@@ -1,4 +1,3 @@
-# projeto-loja
 
 # Projeto Loja em Java (Faculdade SENAC)
 
